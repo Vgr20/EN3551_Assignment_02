@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Dataset}{3}{section.2}%
+\contentsline {section}{\numberline {3}Methadology}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Extracting and Preparing the Data}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Implementation of DCT}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Decompression and Visualization}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Implementation and Results}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Image 01 : camera256}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Image 02 : boat512}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Image 03 : peppers512}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Image 01 : Camera256}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Difficulty in Compression}{5}{section.5}%
+\contentsline {section}{\numberline {6}References}{5}{section.6}%
+\contentsline {section}{\numberline {7}Github Repository}{5}{section.7}%
+\contentsline {section}{\numberline {8}Appendix}{6}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Extracting and Preparing the Data}{6}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}DCT and Quantization}{6}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Coding Schemes}{6}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Inverse DCT and re-construction}{7}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Evaluation Metrics}{7}{subsection.8.5}%
